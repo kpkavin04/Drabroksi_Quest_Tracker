@@ -1,5 +1,8 @@
 # Drabroski Quest Tracker
 
+<img width="658" height="240" alt="Screenshot 2025-08-24 at 9 30 35 PM" src="https://github.com/user-attachments/assets/16ea845a-7092-4066-825d-daec03b24474" />
+
+
 ## usage directions
 1. edit the config.py with the right API ID, API Hash, Group Username and team details
 ```
