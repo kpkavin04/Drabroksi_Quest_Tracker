@@ -24,10 +24,13 @@ python scorer.py
 ```
 
 4. Make use of adminTools.py to:
-    1. sort the scores.json file according to the team number
+    1. sort the scores.json file according to the team number 
+       ```python
+            python adminTools.py sort
+       ```
     2. produce a CLI leaderboard
-    3. flag specific quest submissions
-    4. override specific quest scores
-    5. override total scores of teams
+       ```python
+            python adminTools.py leaderboard
+       ```
 
 
